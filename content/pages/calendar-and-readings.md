@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Calendar and Readings
 uid: d0fe045a-1cb8-6704-9015-473067eb304f
 ---
