@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/sts-310-history-of-science-fall-2015/16bd11285824806c9df70bcbefba7f29_STS-310f15-th.jpg
+file: /courses/sts-310-history-of-science-fall-2015/16bd11285824806c9df70bcbefba7f29_STS-310f15-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: An engraving by Ferrante Imperato titled "Dell'Historia Naturale" (Naples,

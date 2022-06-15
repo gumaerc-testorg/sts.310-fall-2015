@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the assignments for the course,
+  an informational resource, and a sample book review.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
