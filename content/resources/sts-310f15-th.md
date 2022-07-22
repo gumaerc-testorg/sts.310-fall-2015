@@ -11,6 +11,7 @@ image_metadata:
   image-alt: 'A black and white image depicting 4 men in Shakespearan garb looking
     at natural history objects in a museum. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: STS-310f15-th.jpg
