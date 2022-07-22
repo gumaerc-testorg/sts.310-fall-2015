@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions of the assignments for the course,
+  an informational resource, and a sample book review.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 4bcbfe3f-fb06-8235-a026-29f87801976f
 ---
