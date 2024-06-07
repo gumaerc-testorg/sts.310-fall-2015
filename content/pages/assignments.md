@@ -16,7 +16,7 @@ A 1,000-word book review along with serving as the class expert on one week's re
 
 ### Informational Resource
 
-Sarton, George. "{{% resource_link "0493ca2e-c6f4-42a4-8d68-8846b5e0c8a3" "Second Preface to Volume 41 of Isis: Notes on the Reviewing of Learned Books" %}}." _Isis_ 41, no 2 (July 1, 1950): 149-158. 
+Sarton, George. "[Second Preface to Volume 41 of Isis: Notes on the Reviewing of Learned Books](http://www.journals.uchicago.edu/doi/abs/10.1086/349140)." _Isis_ 41, no 2 (July 1, 1950): 149-158. 
 
 ### Sample Book Review
 
