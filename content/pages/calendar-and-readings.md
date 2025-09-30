@@ -21,13 +21,13 @@ READINGS
 What is the History of Science
 {{< tdclose >}}{{< tdopen >}}
 
-Galison, Peter. "[Ten Problems in History and Philosophy of Science](http://dx.doi.org/10.1086/587536)." *Isis* 99, no. 1 (2008): 111–24.
+Galison, Peter. "{{% resource_link "656c33a5-59d3-4fd2-b7d4-e670cc68c9be" "Ten Problems in History and Philosophy of Science" %}}." *Isis* 99, no. 1 (2008): 111–24.
 
-Daston, Lorraine. ["Science Studies and the History of Science." (PDF)](http://blog.wbkolleg.unibe.ch/wp-content/uploads/Daston_2009.pdf) *Critical Inquiry* 35, no. 4 (2009): 798–813.
+Daston, Lorraine. {{% resource_link "338ebb5f-6125-48c0-9a14-2ed09de5bbc6" "\"Science Studies and the History of Science.\" (PDF)" %}} *Critical Inquiry* 35, no. 4 (2009): 798–813.
 
-Dear, Peter, and Sheila Jasanoff. "[Dismantling Boundaries in Science and Technology Studies](http://dx.doi.org/10.1086/657475)." *Isis* 101, no. 4 (2010): 759–74.
+Dear, Peter, and Sheila Jasanoff. "{{% resource_link "80a310cb-6830-4a36-8d4d-44e59a79a218" "Dismantling Boundaries in Science and Technology Studies" %}}." *Isis* 101, no. 4 (2010): 759–74.
 
-Alder, Ken. "[The History of Science as Oxymoron: From Scientific Exceptionalism to Episcience](http://dx.doi.org/10.1086/669889)." *Isis* 104, no. 1 (2013): 88–101.
+Alder, Ken. "{{% resource_link "12e416f1-c252-41ff-a3de-7955b8bd7c61" "The History of Science as Oxymoron: From Scientific Exceptionalism to Episcience" %}}." *Isis* 104, no. 1 (2013): 88–101.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -37,7 +37,7 @@ Bodies of Knowledge
 
 Kuriyama, Shigehisa. *The Expressiveness of the Body and the Divergence of Greek and Chinese Medicine*. Zone Books, 2002. ISBN: 9780942299892.
 
-Lawrence, Christopher, and Steven Shapin. "Introduction." In *Science Incarnate: Historical Embodiments of Natural Knowledge*. University of Chicago Press, 1998, pp.1–19. ISBN: 9780226470146. \[Preview with [Google Books](http://books.google.com/books?id=5ob7X5RR5oQC&pg=PA1#v=onepage)\]
+Lawrence, Christopher, and Steven Shapin. "Introduction." In *Science Incarnate: Historical Embodiments of Natural Knowledge*. University of Chicago Press, 1998, pp.1–19. ISBN: 9780226470146. \[Preview with {{% resource_link "04f39394-0310-4874-8c28-40c70e35c5fa" "Google Books" %}}\]
 
 Duden, Barbara. "Medicine and the History of the Body." In *The Social Construction of Illness: Historical, Sociological & Anthropological Perspectives*." Edited by J. Lachmund and G. Stollberg. Coronet Books Incorporated, 1992. ISBN: 9783515058391.
 
@@ -52,7 +52,7 @@ Daston, Lorraine, and Katharine Park. *Wonders and the Order of Nature, 1150–1
 {{< tdclose >}}{{< tdopen >}}
 Scientific Revolution I: Society
 {{< tdclose >}}{{< tdopen >}}
-Schaffer, Simon, and Steven Shapin. *Leviathan and the Air–Pump: Hobbes, Boyle, and the Experimental Life*. Princeton University Press, 2011. Read Introduction. ISBN: 9780691150208. \[Preview with [Google Books](http://books.google.com/books?id=nK7aQEgV1pUC&printsec=frontcover)\]
+Schaffer, Simon, and Steven Shapin. *Leviathan and the Air–Pump: Hobbes, Boyle, and the Experimental Life*. Princeton University Press, 2011. Read Introduction. ISBN: 9780691150208. \[Preview with {{% resource_link "ce9b296c-7d0f-4204-9682-a8941edf1ef0" "Google Books" %}}\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -79,7 +79,7 @@ Enlightened Scientists
 
 Terrall, Mary. *The Man Who Flattened the Earth : Maupertuis and the Sciences in the Enlightenment*. University of Chicago Press, 2006. ISBN: 9780226793610.
 
-Daston, Lorraine, and H. Otto Sibum. "[Introduction: Scientific Personae and Their Histories](http://dx.doi.org/10.1017/S026988970300067X)." *Science in Context* 16, no. 1–2 (2003): 1–8.
+Daston, Lorraine, and H. Otto Sibum. "{{% resource_link "0e6b197d-155c-4723-b1d2-1bd1195b0d54" "Introduction: Scientific Personae and Their Histories" %}}." *Science in Context* 16, no. 1–2 (2003): 1–8.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -87,7 +87,7 @@ Daston, Lorraine, and H. Otto Sibum. "[Introduction: Scientific Personae and The
 Narrating Evolution
 {{< tdclose >}}{{< tdopen >}}
 
-Secord, James A. *Victorian Sensation: The Extraordinary Publication, Reception, and Secret Authorship of Vestiges of the Natural History of Creation*. University of Chicago Press, 2003. ISBN: 9780226744117. \[Preview with [Google Books](http://books.google.com/books?id=1RlJAgAAQBAJ&printsec=frontcover)\]
+Secord, James A. *Victorian Sensation: The Extraordinary Publication, Reception, and Secret Authorship of Vestiges of the Natural History of Creation*. University of Chicago Press, 2003. ISBN: 9780226744117. \[Preview with {{% resource_link "8ae7c1a3-5f45-41e4-bb79-dc0acd1a3351" "Google Books" %}}\]
 
 Or
 
@@ -111,9 +111,9 @@ Porter, Theodore M. *Trust in Numbers The Pursuit of Objectivity in Science and 
 Experimental Lives and Lives of Experiments
 {{< tdclose >}}{{< tdopen >}}
 
-Kohler, Robert E. *Lords of the Fly: Drosophila Genetics and the Experimental Life*. University of Chicago Press, 1994. ISBN: 9780226450636. \[Preview with [Google Books](http://books.google.com/books?id=J57ht8TPP74C&printsec=frontcover)\]
+Kohler, Robert E. *Lords of the Fly: Drosophila Genetics and the Experimental Life*. University of Chicago Press, 1994. ISBN: 9780226450636. \[Preview with {{% resource_link "e0945882-3157-4176-a781-8a217959046e" "Google Books" %}}\]
 
-Rheinberger, Hans–Jörg. "[Experimental Systems: Historiality, Narration, and Deconstruction](http://dx.doi.org/10.1017/S0269889700001599)." *Science in Context* 7, no. 1 (1994): 65–81.
+Rheinberger, Hans–Jörg. "{{% resource_link "311943e5-1b38-4323-964a-516a9387841d" "Experimental Systems: Historiality, Narration, and Deconstruction" %}}." *Science in Context* 7, no. 1 (1994): 65–81.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -121,15 +121,15 @@ Rheinberger, Hans–Jörg. "[Experimental Systems: Historiality, Narration, and 
 Big Science
 {{< tdclose >}}{{< tdopen >}}
 
-[History of Science Society 2015 Conference Program](https://hssonline.org/page/futurepastmeetings)
+{{% resource_link "8aee122d-c632-462d-b154-69a5337f59b0" "History of Science Society 2015 Conference Program" %}}
 
 And
 
-Galison, Peter. *Image and Logic: A Material Culture of Microphysics*. University of Chicago Press, 1997. ISBN: 9780226279176. \[Preview with [Google Books](http://books.google.com/books?id=6Gcu92U8CwYC&printsec=frontcover)\]
+Galison, Peter. *Image and Logic: A Material Culture of Microphysics*. University of Chicago Press, 1997. ISBN: 9780226279176. \[Preview with {{% resource_link "186c021c-6e75-46a7-aed4-04ae98704426" "Google Books" %}}\]
 
 Or
 
-Krige, John. *American Hegemony and the Postwar Reconstruction of Science in Europe*. MIT Press, 2008. ISBN: 9780262612258. \[Preview with [Google Books](http://books.google.com/books?id=Oekybw092moC&printsec=frontcover)\]
+Krige, John. *American Hegemony and the Postwar Reconstruction of Science in Europe*. MIT Press, 2008. ISBN: 9780262612258. \[Preview with {{% resource_link "ab67dc08-34ae-4966-ab2d-a29e41d0d9a4" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -137,9 +137,9 @@ Krige, John. *American Hegemony and the Postwar Reconstruction of Science in Eur
 Science, Empire, and Modernity
 {{< tdclose >}}{{< tdopen >}}
 
-Mitchell, Timothy. *Rule of Experts: Egypt, Techno–Politics, Modernity*. University of California Press, 2002. ISBN: 9780520232624. \[Preview with [Google Books](http://books.google.com/books?id=B_RyU1Z4AwIC&printsec=frontcover)\]
+Mitchell, Timothy. *Rule of Experts: Egypt, Techno–Politics, Modernity*. University of California Press, 2002. ISBN: 9780520232624. \[Preview with {{% resource_link "e1cc656f-064c-41f0-9589-8abd9fe7971e" "Google Books" %}}\]
 
-Chambers, David Wade, and Richard Gillespie. "[Locality in the History of Science: Colonial Science, Technoscience, and Indigenous Knowledge](http://www.jstor.org/stable/301950)." *Osiris* 15 (2000): 221–40.
+Chambers, David Wade, and Richard Gillespie. "{{% resource_link "d95e8944-22f3-4eb1-8268-893238b9fbc1" "Locality in the History of Science: Colonial Science, Technoscience, and Indigenous Knowledge" %}}." *Osiris* 15 (2000): 221–40.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -147,7 +147,7 @@ Chambers, David Wade, and Richard Gillespie. "[Locality in the History of Scienc
 Technoscience
 {{< tdclose >}}{{< tdopen >}}
 
-Forman, Paul. "[On the Historical Forms of Knowledge Production and Curation: Modernity Entailed Disciplinarity, Postmodernity Entails Antidisciplinarity](http://www.jstor.org/stable/10.1086/667823)." *Osiris* 27, no. 1 (2012): 56–97.
+Forman, Paul. "{{% resource_link "5cf9f557-0857-4b32-8acf-dc38b8ff5e73" "On the Historical Forms of Knowledge Production and Curation: Modernity Entailed Disciplinarity, Postmodernity Entails Antidisciplinarity" %}}." *Osiris* 27, no. 1 (2012): 56–97.
 
 And
 
@@ -155,7 +155,7 @@ Shapin, Steven. *The Scientific Life: A Moral History of a Late Modern Vocation*
 
 Or
 
-Murphy, Michelle. *Sick Building Syndrome and the Problem of Uncertainty : Environmental Politics, Technoscience, and Women Workers*. Duke University Press, 2006. ISBN: 9780822336716. \[Preview with [Google Books](http://books.google.com/books?id=GwEcFRhKh-MC&printsec=frontcover)\]
+Murphy, Michelle. *Sick Building Syndrome and the Problem of Uncertainty : Environmental Politics, Technoscience, and Women Workers*. Duke University Press, 2006. ISBN: 9780822336716. \[Preview with {{% resource_link "a9d0ab36-1b3e-4a46-99e5-a811568a6a57" "Google Books" %}}\]
 
 Or
 
